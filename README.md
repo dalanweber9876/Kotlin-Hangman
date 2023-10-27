@@ -1,7 +1,7 @@
 # Overview
 This is a command-line version of Hangman using Kotlin. This project was designed to learn and practice Kotlin. The program makes use of functions and classes. Each letter is stored in a list as a Letter, which contains the letter and whether it is visible or not. When the user guesses a letter, that letter is changed to visible, allowing the user to see it. The program runs until the user guesses the word or the stickman is built. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/i7biSB2p88A)
 
 # Development Environment
 
